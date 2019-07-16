@@ -5687,6 +5687,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   flex-direction: column;
   padding-left: 0;
   margin-bottom: 0;
+  align-items: center
 }
 
 .list-group-item-action {
