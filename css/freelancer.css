@@ -402,6 +402,7 @@ h6, .h6 {
 
 .lead {
   font-size: 1.25rem;
+  line-height: 1.7;
   font-weight: 300;
 }
 
